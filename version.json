@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "descripcion": "GestorPro Beta — primera versión pública",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.1.0/GestorPro-Setup-0.1.0.exe"
+  "version": "0.3.1",
+  "descripcion": "GestorPro v0.3.1 — Login de 2 capas (código de negocio), tema claro/oscuro en toda la app, selector de denominaciones COP en apertura/cierre de caja, backup configurable a la nube (Google Drive/OneDrive/Dropbox), reporte de errores opt-in, notificaciones de stock bajo por correo, Términos y condiciones + Política de privacidad, y correcciones de estabilidad reportadas en beta.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.3.1/GestorPro-Setup-0.3.1.exe"
 }
