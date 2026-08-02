@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "descripcion": "GestorPro v0.3.1 — Login de 2 capas (código de negocio), tema claro/oscuro en toda la app, selector de denominaciones COP en apertura/cierre de caja, backup configurable a la nube (Google Drive/OneDrive/Dropbox), reporte de errores opt-in, notificaciones de stock bajo por correo, Términos y condiciones + Política de privacidad, y correcciones de estabilidad reportadas en beta.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.3.1/GestorPro-Setup-0.3.1.exe"
+  "version": "0.4.0",
+  "descripcion": "GestorPro v0.4.0 — Registrar compras a proveedores (sube el stock y actualiza el costo automáticamente), escala de tamaño de fuente/UI ajustable (90%–200%), botón de tema de acceso rápido en el Dashboard, transición de tema con fundido cruzado, pantalla de login que ahora sigue el tema claro/oscuro, y varias correcciones visuales (espaciado de botones en Cajeros, gráfico de Reportes que se aplastaba en ventanas chicas, popup de selección con halo claro en tema oscuro, botón de agregar al carrito cortado en Ventas, validaciones de categoría y stock en Inventario).",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.4.0/GestorPro-Setup-0.4.0.exe"
 }
