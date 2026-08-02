@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "descripcion": "GestorPro v0.4.0 — Registrar compras a proveedores (sube el stock y actualiza el costo automáticamente), escala de tamaño de fuente/UI ajustable (90%–200%), botón de tema de acceso rápido en el Dashboard, transición de tema con fundido cruzado, pantalla de login que ahora sigue el tema claro/oscuro, y varias correcciones visuales (espaciado de botones en Cajeros, gráfico de Reportes que se aplastaba en ventanas chicas, popup de selección con halo claro en tema oscuro, botón de agregar al carrito cortado en Ventas, validaciones de categoría y stock en Inventario).",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.4.0/GestorPro-Setup-0.4.0.exe"
+  "version": "0.5.0",
+  "descripcion": "GestorPro v0.5.0 — Recuperación del código de acceso del negocio por correo (mismo mecanismo que la recuperación de contraseña), asistente de primer arranque corregido (pasos cortos ya no dejan un hueco vacío enorme, botón \"Ver\"/\"Ocultar\" contraseña ya no se ve cortado), y el ítem del menú \"Dashboard\" ahora se llama \"Página principal\".",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.5.0/GestorPro-Setup-0.5.0.exe"
 }
