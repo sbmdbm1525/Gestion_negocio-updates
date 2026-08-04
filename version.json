@@ -1,5 +1,6 @@
 {
-  "version": "0.5.9",
-  "descripcion": "GestorPro v0.5.9 — Ventas a crédito (cliente obligatorio, abonos, cartera pendiente), módulo de Pagos programados, módulo de Capital propio del dueño, separador de miles en vivo en montos, columna \"Registrado por\" en Gastos, y corrección de un cierre inesperado en Reportes al usar un rango de fechas futuro.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.5.9/GestorPro-Setup-0.5.9.exe"
+  "version": "0.6.0",
+  "descripcion": "GestorPro v0.6.0 — Auto-actualizador: \"Actualizar ahora\" descarga e instala la nueva versión sola (sin pantallas del instalador), y reabre GestorPro automáticamente. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.0/GestorPro-Setup-0.6.0.exe",
+  "tamano_bytes": 54315360
 }
