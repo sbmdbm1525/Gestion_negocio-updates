@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
-  "descripcion": "GestorPro v0.5.0 — Recuperación del código de acceso del negocio por correo (mismo mecanismo que la recuperación de contraseña), asistente de primer arranque corregido (pasos cortos ya no dejan un hueco vacío enorme, botón \"Ver\"/\"Ocultar\" contraseña ya no se ve cortado), y el ítem del menú \"Dashboard\" ahora se llama \"Página principal\".",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.5.0/GestorPro-Setup-0.5.0.exe"
+  "version": "0.5.9",
+  "descripcion": "GestorPro v0.5.9 — Ventas a crédito (cliente obligatorio, abonos, cartera pendiente), módulo de Pagos programados, módulo de Capital propio del dueño, separador de miles en vivo en montos, columna \"Registrado por\" en Gastos, y corrección de un cierre inesperado en Reportes al usar un rango de fechas futuro.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.5.9/GestorPro-Setup-0.5.9.exe"
 }
