@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "descripcion": "GestorPro v0.6.0 — Auto-actualizador: \"Actualizar ahora\" descarga e instala la nueva versión sola (sin pantallas del instalador), y reabre GestorPro automáticamente. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.0/GestorPro-Setup-0.6.0.exe",
-  "tamano_bytes": 54315360
+  "version": "0.6.1",
+  "descripcion": "GestorPro v0.6.1 — Fix: la tarjeta \"Próximos pagos\" mostraba siempre \"3 días\". Nuevo: registro local de errores con reintento de envío por correo. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.1/GestorPro-Setup-0.6.1.exe",
+  "tamano_bytes": 54344966
 }
