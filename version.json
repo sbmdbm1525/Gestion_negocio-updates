@@ -1,6 +1,6 @@
 {
-  "version": "0.6.3",
-  "descripcion": "GestorPro v0.6.3 — Indicador de progreso al importar productos desde CSV: la importación ahora corre en un hilo aparte con un diálogo de progreso (barra determinada, fila X de Y) en vez de dejar la app sin ningún indicio de que sigue trabajando, y al terminar muestra un resumen de creados/omitidos/con error. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.3/GestorPro-Setup-0.6.3.exe",
-  "tamano_bytes": 54376008
+  "version": "0.6.4",
+  "descripcion": "GestorPro v0.6.4 — Corrige el scroll con TOUCHPAD (gesto de dos dedos) que no funcionaba sobre los gráficos del Dashboard/Reportes ni sobre el slider de escala de fuente en Configuración (solo funcionaba con mouse) — ahora funciona igual en ambos, verificado con touchpad físico real. Incluye instrumentación de diagnóstico para impresión térmica: nuevo botón 'Diagnóstico de impresora' en Configuración, útil si la impresora se detecta pero al imprimir no pasa nada sin ningún error visible. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.4/GestorPro-Setup-0.6.4.exe",
+  "tamano_bytes": 54385739
 }
