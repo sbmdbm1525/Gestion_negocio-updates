@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "descripcion": "GestorPro v0.6.2 — Paginación en las tablas grandes de la app, corrige un freeze real al usar Ventas repetidamente con catálogos grandes de productos, corrige la impresión térmica en el instalador, corrige texto largo superpuesto en PDFs de Reportes y el scroll \"atrapado\" por gráficos/controles. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.2/GestorPro-Setup-0.6.2.exe",
-  "tamano_bytes": 54371301
+  "version": "0.6.3",
+  "descripcion": "GestorPro v0.6.3 — Indicador de progreso al importar productos desde CSV: la importación ahora corre en un hilo aparte con un diálogo de progreso (barra determinada, fila X de Y) en vez de dejar la app sin ningún indicio de que sigue trabajando, y al terminar muestra un resumen de creados/omitidos/con error. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.3/GestorPro-Setup-0.6.3.exe",
+  "tamano_bytes": 54376008
 }
