@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
-  "descripcion": "GestorPro v0.6.1 — Fix: la tarjeta \"Próximos pagos\" mostraba siempre \"3 días\". Nuevo: registro local de errores con reintento de envío por correo. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.1/GestorPro-Setup-0.6.1.exe",
-  "tamano_bytes": 54344966
+  "version": "0.6.2",
+  "descripcion": "GestorPro v0.6.2 — Paginación en las tablas grandes de la app, corrige un freeze real al usar Ventas repetidamente con catálogos grandes de productos, corrige la impresión térmica en el instalador, corrige texto largo superpuesto en PDFs de Reportes y el scroll \"atrapado\" por gráficos/controles. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.2/GestorPro-Setup-0.6.2.exe",
+  "tamano_bytes": 54371301
 }
