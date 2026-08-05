@@ -1,6 +1,6 @@
 {
-  "version": "0.6.4",
-  "descripcion": "GestorPro v0.6.4 — Corrige el scroll con TOUCHPAD (gesto de dos dedos) que no funcionaba sobre los gráficos del Dashboard/Reportes ni sobre el slider de escala de fuente en Configuración (solo funcionaba con mouse) — ahora funciona igual en ambos, verificado con touchpad físico real. Incluye instrumentación de diagnóstico para impresión térmica: nuevo botón 'Diagnóstico de impresora' en Configuración, útil si la impresora se detecta pero al imprimir no pasa nada sin ningún error visible. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.4/GestorPro-Setup-0.6.4.exe",
-  "tamano_bytes": 54385739
+  "version": "0.6.6",
+  "descripcion": "GestorPro v0.6.6 — Nuevo: ciclo de abastecimiento formal con proveedores. Órdenes de compra con seguimiento de estado (borrador/enviada/recibida/cancelada), recepción parcial o completa de mercancía (el stock sube apenas se registra cada entrega), y generación automática de un gasto real (compras de contado) o un pago programado (compras a crédito) al completarse una orden — todo visible desde el nuevo ítem 'Órdenes de compra' del menú. También: catálogo de proveedores por producto (qué proveedores venden cada producto y a qué precio, con un proveedor principal marcado), visible desde la ficha de cada producto en Inventario, y las alertas de stock bajo del Dashboard ahora muestran el proveedor principal de cada producto en alerta. Además incluye el fix del diálogo 'Cobrar venta' que podía crecer sin límite al agregar métodos de pago. Actualizar desde cualquier versión anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.6/GestorPro-Setup-0.6.6.exe",
+  "tamano_bytes": 54444972
 }
