@@ -1,6 +1,6 @@
 {
-  "version": "0.6.7",
-  "descripcion": "GestorPro v0.6.7 — Nuevo: jerarquia de abastecimiento clara. Las compras (informal desde Proveedores o formal con ordenes de compra) son la via recomendada para subir stock: dejan trazabilidad de proveedor y costo, y la primera vez que se le compra un producto a un proveedor los vincula automaticamente (aviso 'Vincular proveedor' al armar la compra/orden). El ajuste manual de stock desde la ficha del producto ahora es solo para correcciones puntuales (conteo fisico, merma, dano) y exige siempre un motivo, con registro completo en auditoria. Tambien nuevo: checklist 'Primeros pasos' en la Pagina principal para un negocio recien creado (crear tu primer producto, hacer tu primera venta, configurar la impresora termica, agregar tu primer cajero, con acceso directo a cada modulo). Y el menu lateral ahora esta agrupado en categorias (Operacion diaria, Inventario, Finanzas, Gestion, Ayuda) en vez de una lista plana de items. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.7/GestorPro-Setup-0.6.7.exe",
-  "tamano_bytes": 54461509
+  "version": "0.6.8",
+  "descripcion": "GestorPro v0.6.8 — Nuevo: baudrate, control de flujo (DSR/DTR) y perfil ESC/POS de la impresora termica ahora configurables desde Configuracion -> Impresora termica -> Opciones avanzadas. Pensado para negocios con impresoras clon que no funcionan con los valores por defecto (9600 baudios, DSR/DTR activado) -- permite probar otra velocidad o desactivar el control de flujo por hardware sin depender de un fix de codigo para cada marca. Los valores por defecto son identicos a los que ya traia la app, asi que ninguna instalacion existente cambia de comportamiento. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.8/GestorPro-Setup-0.6.8.exe",
+  "tamano_bytes": 54485022
 }
