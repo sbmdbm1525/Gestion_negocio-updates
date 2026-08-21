@@ -1,6 +1,6 @@
 {
-  "version": "0.6.9",
-  "descripcion": "GestorPro v0.6.9 — Nuevo boton 'Exportar CSV' en Inventario, Ventas, Clientes, Proveedores, Gastos y Reportes -- para abrir tus datos en Excel, respaldarlos o compartirlos con tu contador. Importar productos desde CSV ahora puede vincular automaticamente el proveedor de cada producto (creandolo si hace falta). Los telefonos de clientes y proveedores ahora se validan al guardarlos (solo numeros). Nuevo dialogo de 'Novedades' que se muestra despues de cada actualizacion, con un resumen de lo que cambio. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.6.9/GestorPro-Setup-0.6.9.exe",
-  "tamano_bytes": 54538829
+  "version": "0.7.0",
+  "descripcion": "GestorPro v0.7.0 — Nuevo boton 'Venta rapida' en Nueva venta: permite cobrar un servicio, un articulo suelto sin catalogar (o un grupo variado de articulos), o algo que todavia no cargaste en Inventario, sin afectar tu inventario en absoluto. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.0/GestorPro-Setup-0.7.0.exe",
+  "tamano_bytes": 54538966
 }
