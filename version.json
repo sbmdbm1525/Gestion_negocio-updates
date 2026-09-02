@@ -1,6 +1,6 @@
 {
-  "version": "0.7.1",
-  "descripcion": "GestorPro v0.7.1 — Corregido: el arqueo de caja no descontaba los gastos en efectivo registrados durante el mismo turno (podia mostrar un descuadre que en realidad no existia). Corregido: en algunas computadoras, el control de cantidad de un producto en el carrito no se veia. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.1/GestorPro-Setup-0.7.1.exe",
-  "tamano_bytes": 54545406
+  "version": "0.7.2",
+  "descripcion": "GestorPro v0.7.2 — Corregido: al cerrar caja, presionar Enter sin haber contado el efectivo todavia podia cerrar la caja por accidente con $0. Ahora siempre pide confirmar mostrando el monto exacto contado antes de cerrar de verdad. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.2/GestorPro-Setup-0.7.2.exe",
+  "tamano_bytes": 54546235
 }
