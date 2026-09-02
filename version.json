@@ -1,6 +1,6 @@
 {
-  "version": "0.7.2",
-  "descripcion": "GestorPro v0.7.2 — Corregido: al cerrar caja, presionar Enter sin haber contado el efectivo todavia podia cerrar la caja por accidente con $0. Ahora siempre pide confirmar mostrando el monto exacto contado antes de cerrar de verdad. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.2/GestorPro-Setup-0.7.2.exe",
-  "tamano_bytes": 54546235
+  "version": "0.7.3",
+  "descripcion": "GestorPro v0.7.3 — Nuevo para administradores: si una caja se cerro por accidente, ahora se puede reabrir directamente desde Caja ('Reabrir una caja cerrada por accidente'), eligiendo con total claridad cual turno fue (cajero, dia y hora de apertura y cierre) -- sin perder nada de lo ya registrado. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.3/GestorPro-Setup-0.7.3.exe",
+  "tamano_bytes": 54539418
 }
