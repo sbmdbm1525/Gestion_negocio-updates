@@ -1,6 +1,6 @@
 {
-  "version": "0.7.3",
-  "descripcion": "GestorPro v0.7.3 — Nuevo para administradores: si una caja se cerro por accidente, ahora se puede reabrir directamente desde Caja ('Reabrir una caja cerrada por accidente'), eligiendo con total claridad cual turno fue (cajero, dia y hora de apertura y cierre) -- sin perder nada de lo ya registrado. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.3/GestorPro-Setup-0.7.3.exe",
-  "tamano_bytes": 54539418
+  "version": "0.7.4",
+  "descripcion": "GestorPro v0.7.4 -- Nuevo: el cajon monedero (conectado a la impresora termica) ahora se abre solo en cualquier venta pagada, total o parcialmente, en efectivo -- venta normal o Venta rapida. Mejorado: la tabla de Gastos ahora muestra tambien la hora de cada registro, no solo la fecha. Corregido: un problema en la conexion con la impresora termica que en algunos casos podia dejar una impresion pendiente sin avisar. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.4/GestorPro-Setup-0.7.4.exe",
+  "tamano_bytes": 54550922
 }
