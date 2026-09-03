@@ -1,6 +1,6 @@
 {
-  "version": "0.7.6",
-  "descripcion": "GestorPro v0.7.6 -- Mejorado: la app ahora deja un registro mas completo de errores inesperados que ocurran en segundo plano (backup, cajon monedero), para poder diagnosticarlos mas rapido si algo vuelve a fallar. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.6/GestorPro-Setup-0.7.6.exe",
-  "tamano_bytes": 54551725
+  "version": "0.7.7",
+  "descripcion": "GestorPro v0.7.7 -- Corregido: dos respaldos automaticos de la base de datos podian chocar entre si al cerrar la aplicacion, generando un error de archivo en uso. Ahora nunca corren al mismo tiempo. Mejorado: registro mas detallado del proceso de cobro, para seguir diagnosticando el cierre inesperado reportado al cobrar Venta rapida. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.7/GestorPro-Setup-0.7.7.exe",
+  "tamano_bytes": 54549294
 }
