@@ -1,6 +1,6 @@
 {
-  "version": "0.7.7",
-  "descripcion": "GestorPro v0.7.7 -- Corregido: dos respaldos automaticos de la base de datos podian chocar entre si al cerrar la aplicacion, generando un error de archivo en uso. Ahora nunca corren al mismo tiempo. Mejorado: registro mas detallado del proceso de cobro, para seguir diagnosticando el cierre inesperado reportado al cobrar Venta rapida. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.7/GestorPro-Setup-0.7.7.exe",
-  "tamano_bytes": 54549294
+  "version": "0.7.8",
+  "descripcion": "GestorPro v0.7.8 -- Corregido: el ticket de Arqueo de caja del dia podia mezclar el nombre de dos cajeras distintas cuando trabajaron turnos separados el mismo dia. Nuevo: pantalla Arqueo del dia en Caja (para administradores) -- revisa el resumen y el desglose por cajero de cualquier dia desde la app, sin imprimir nada. Mejorado: el ticket de arqueo ahora muestra el nombre de cada cajera como titulo de su seccion, mas facil de leer y con menos papel. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.8/GestorPro-Setup-0.7.8.exe",
+  "tamano_bytes": 54570978
 }
