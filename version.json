@@ -1,6 +1,6 @@
 {
-  "version": "0.7.9",
-  "descripcion": "GestorPro v0.7.9 -- Corregido: la aplicacion podia cerrarse sola al cobrar varias ventas en efectivo (especialmente Venta rapida) muy seguidas, por una falla al abrir el cajon monedero dos veces casi al mismo tiempo. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.9/GestorPro-Setup-0.7.9.exe",
-  "tamano_bytes": 54572251
+  "version": "0.7.10",
+  "descripcion": "GestorPro v0.7.10 -- Nuevo: el historial de errores de Soporte ahora es visible para cualquier cajero, no solo administradores, incluido el detalle tecnico completo. Nuevo: la app ahora detecta y deja registro si se cerro de forma inesperada (corte de luz, cierre forzado) la ultima vez que se uso. Mejorado: la calculadora de cambio en efectivo ahora se ve en vivo mientras se escribe cuanto pago el cliente, sin necesidad de abrir nada aparte. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.10/GestorPro-Setup-0.7.10.exe",
+  "tamano_bytes": 54572461
 }
