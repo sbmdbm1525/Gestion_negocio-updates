@@ -1,6 +1,6 @@
 {
-  "version": "0.7.12",
-  "descripcion": "GestorPro v0.7.12 -- Nuevo: 'Abrir cajon monedero automaticamente al cobrar en efectivo' ahora es un interruptor aparte en Configuracion -> Impresora termica, separado de 'Imprimir ticket automaticamente' -- permite aislar cada uno por separado si hay problemas con la impresora. Mejorado: cuando ambos estan activos, imprimir el ticket y abrir el cajon de la misma venta ahora usan una sola conexion con la impresora en vez de dos seguidas, para reducir el riesgo de que la app se cierre de golpe al cobrar en efectivo. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.12/GestorPro-Setup-0.7.12.exe",
-  "tamano_bytes": 54587505
+  "version": "0.7.13",
+  "descripcion": "GestorPro v0.7.13 -- Interno: se agrego un registro mas detallado (temporal) de cada intento de abrir el cajon monedero, para poder diagnosticar mejor el cierre inesperado que algunos negocios siguen reportando al cobrar en efectivo. No cambia nada visible en el dia a dia del negocio. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.13/GestorPro-Setup-0.7.13.exe",
+  "tamano_bytes": 54604595
 }
