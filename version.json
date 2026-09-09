@@ -1,6 +1,6 @@
 {
-  "version": "0.7.13",
-  "descripcion": "GestorPro v0.7.13 -- Interno: se agrego un registro mas detallado (temporal) de cada intento de abrir el cajon monedero, para poder diagnosticar mejor el cierre inesperado que algunos negocios siguen reportando al cobrar en efectivo. No cambia nada visible en el dia a dia del negocio. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.13/GestorPro-Setup-0.7.13.exe",
-  "tamano_bytes": 54604595
+  "version": "0.7.14",
+  "descripcion": "GestorPro v0.7.14 -- Nuevo: dos botones para probar el cajon monedero por separado (pin 2 o pin 5) en Configuracion -> Impresora termica, para confirmar cual abre tu cajon de verdad. Nuevo: Configuracion ahora es visible para cualquier cajero -- solo con Apariencia, Impresora termica y Metodos de pago; los datos sensibles del negocio (NIT, correo de recuperacion, codigo de acceso, backup) siguen siendo solo para administradores. Reforzada la app en varios puntos mas contra un cierre inesperado. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.14/GestorPro-Setup-0.7.14.exe",
+  "tamano_bytes": 54608622
 }
