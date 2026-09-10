@@ -1,6 +1,6 @@
 {
-  "version": "0.7.16",
-  "descripcion": "GestorPro v0.7.16 -- Corregido: en algunos casos, cerrar sesion y volver a entrar con otro usuario podia arrastrar un estado interno que no le correspondia a la nueva sesion. Interno: si el cajon monedero queda ocupado por un problema de hardware que nunca se resuelve solo, la app ahora se recupera sola en vez de quedar bloqueada para abrir el cajon el resto del dia. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.16/GestorPro-Setup-0.7.16.exe",
-  "tamano_bytes": 54619202
+  "version": "0.7.17",
+  "descripcion": "GestorPro v0.7.17 -- Nuevo (temporal): boton 'Probar cajon CON avance de papel' en Configuracion -> Impresora termica, para ayudar a diagnosticar por que el cajon monedero no abre en algunos negocios. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.17/GestorPro-Setup-0.7.17.exe",
+  "tamano_bytes": 54629090
 }
