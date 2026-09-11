@@ -1,6 +1,6 @@
 {
-  "version": "0.7.20",
-  "descripcion": "GestorPro v0.7.20 -- Rediseno visual en Ventas: el catalogo de productos, el carrito y el historial estrenan un estilo mas consistente con el resto de la aplicacion, y el boton 'Cobrar' es ahora mas grande y visible. Corregido: un problema interno que podia hacer que la pantalla de Ventas usara mas memoria de la necesaria tras varios filtros seguidos en el historial. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.20/GestorPro-Setup-0.7.20.exe",
-  "tamano_bytes": 55018879
+  "version": "0.7.21",
+  "descripcion": "GestorPro v0.7.21 -- Nuevo selector explicito de impresora en Configuracion (elegi tu impresora termica por su nombre real, no solo un puerto) y boton para ver todas las impresoras instaladas. Rediseno visual en Pagos programados. Corregido: el encabezado PRODUCTO del carrito de Ventas se veia cortado, y el texto de ayuda del buscador de la barra superior se veia cortado. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.21/GestorPro-Setup-0.7.21.exe",
+  "tamano_bytes": 55053504
 }
