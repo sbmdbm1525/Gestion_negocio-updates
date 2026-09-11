@@ -1,6 +1,6 @@
 {
-  "version": "0.7.19",
-  "descripcion": "GestorPro v0.7.19 -- Rediseno visual: las tarjetas de metricas de la Pagina principal (Ventas hoy, Productos activos, Gastos del mes, Clientes, Proximos pagos, Errores criticos) y las etiquetas de stock bajo/sin stock estrenan un estilo mas consistente con el resto de la aplicacion. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.19/GestorPro-Setup-0.7.19.exe",
-  "tamano_bytes": 55019136
+  "version": "0.7.20",
+  "descripcion": "GestorPro v0.7.20 -- Rediseno visual en Ventas: el catalogo de productos, el carrito y el historial estrenan un estilo mas consistente con el resto de la aplicacion, y el boton 'Cobrar' es ahora mas grande y visible. Corregido: un problema interno que podia hacer que la pantalla de Ventas usara mas memoria de la necesaria tras varios filtros seguidos en el historial. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.20/GestorPro-Setup-0.7.20.exe",
+  "tamano_bytes": 55018879
 }
