@@ -1,6 +1,6 @@
 {
-  "version": "0.7.17",
-  "descripcion": "GestorPro v0.7.17 -- Nuevo (temporal): boton 'Probar cajon CON avance de papel' en Configuracion -> Impresora termica, para ayudar a diagnosticar por que el cajon monedero no abre en algunos negocios. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.17/GestorPro-Setup-0.7.17.exe",
-  "tamano_bytes": 54629090
+  "version": "0.7.18",
+  "descripcion": "GestorPro v0.7.18 -- Rediseno visual: paleta de colores renovada en el tema oscuro, tipografia Inter en toda la aplicacion, y una barra superior nueva con el negocio, el usuario activo y el boton de tema. Corregido: el boton 'Probar cajon CON avance de papel' no hacia nada al presionarlo -- ya funciona correctamente. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.18/GestorPro-Setup-0.7.18.exe",
+  "tamano_bytes": 55019265
 }
