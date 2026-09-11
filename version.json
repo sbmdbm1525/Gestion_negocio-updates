@@ -1,6 +1,6 @@
 {
-  "version": "0.7.21",
-  "descripcion": "GestorPro v0.7.21 -- Nuevo selector explicito de impresora en Configuracion (elegi tu impresora termica por su nombre real, no solo un puerto) y boton para ver todas las impresoras instaladas. Rediseno visual en Pagos programados. Corregido: el encabezado PRODUCTO del carrito de Ventas se veia cortado, y el texto de ayuda del buscador de la barra superior se veia cortado. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
-  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.21/GestorPro-Setup-0.7.21.exe",
-  "tamano_bytes": 55053504
+  "version": "0.7.22",
+  "descripcion": "GestorPro v0.7.22 -- En la Pagina principal, la tarjeta Errores criticos ahora se puede hacer clic cuando hay alguno pendiente y lleva directo al Historial de errores de Soporte, ya filtrado. Nuevos botones Compartir estos errores (archivo de texto con el detalle completo) y Copiar resumen (resumen corto para WhatsApp) en el Historial de errores, disponibles para cualquier usuario. Actualizar desde cualquier version anterior es seguro: no borra ni sobrescribe la base de datos existente.",
+  "url_descarga": "https://github.com/sbmdbm1525/Gestion_negocio-updates/releases/download/v0.7.22/GestorPro-Setup-0.7.22.exe",
+  "tamano_bytes": 55058184
 }
